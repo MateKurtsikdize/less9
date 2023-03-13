@@ -1,0 +1,176 @@
+.flex-header{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 584px;
+    padding-top: 20px;
+}
+.ul{
+    display: flex;
+    justify-content: space-between;
+    width: 366px;
+}
+.Login{
+    width: 78px;
+    height: 40px;
+    background-color: #F84646;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    background-image: url(../images/Rectangle1.jpg);
+    width: 100%;
+    height: 754px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    
+}
+.bar{
+    display: none;
+}
+.H1{
+    font-size: 64px;
+    margin-top: 200px;
+    margin-left: 122px;
+}
+.lorem{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 122px;
+}
+.container{
+  max-width:  1153px;
+  width: 80%;
+  
+ 
+}
+.text {
+    max-width: 994px;
+    width: 80%;
+    margin: 0 auto;
+
+}
+.h2{
+   margin-left: 506px;
+    color: #2E2E2E;
+}
+.p-tag{
+    margin-left: 330px;
+    margin-top: 10px;
+    color: #808080;
+}
+.box{
+    width: 298px;
+    
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    margin-left: 200px;
+}
+.section{
+    margin-top: 200px;
+    margin-left: 120px;
+    
+}
+.left{
+    max-width: 536px;
+    width: 100%;
+}
+.Main-tag{
+    font-size: 64px;
+    color: #2E2E2E;
+}
+.tag{
+    color: #808080;
+    font-size: 16px;
+    margin-top: 116px;
+}
+.add{
+    width: 160px;
+    height: 48px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    background-color: #F84646;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+.right{
+    max-width: 536px;
+    width: 100%;
+    margin-right: 104px;
+}
+.Main{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.bot{
+    max-width: 536px;
+    width: 100%;
+    margin-top: 100px;
+   
+}
+
+.bot-right{
+    max-width: 536px;
+    width: 100%;
+    margin-top: 100px;
+}
+.footer{
+    background-color: #F84646;
+    display: flex;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.mean{
+    color: black;
+    padding-bottom: 25px;
+}
+.class{
+    padding-bottom: 25px;
+    color: #E6E6E6;
+}
+.fot{
+    margin-left: 102px;
+    margin: 0 auto;
+}
+.foot-2{
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding-bottom: 50px;
+    background-color:  #F84646;
+    margin-left: 102px;
+}
+.foot-p{
+    color: #FFFFFF;
+}
+/* Containeris Gagrdzeleba */
+.box-h3{
+    font-size: 36px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.box-p{
+    font-size: 18px;
+    color: #000000;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.box-photo{
+    margin-left: 100px;
+}
